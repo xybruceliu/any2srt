@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# folder to ignore
+caption_to_fix/
+captions_fixed/
+captions_problematic/
+
